@@ -72,7 +72,7 @@
 <h2>Author</h2>
 
 <p>
-  Created by <strong>Prem Kumar Kora</strong>. Connect on <a href="https://www.linkedin.com/in/premkumarkora">LinkedIn</a> or explore more projects on <a href="https://github.com/premkumarkora">GitHub</a>.
+  Created by <strong>Prem Kumar Kora</strong>. Connect on <a href="https://www.linkedin.com/in/premkora">LinkedIn</a> or explore more projects on <a href="https://github.com/premkumarkora">GitHub</a>.
 </p>
 
 <h2>License</h2>
